@@ -3,13 +3,7 @@
  * Before you begin compile the code to
  * make sure the code is working properly.
  *****************************************/
-#include <iostream>
-#include <cstring>
-#include <cctype>
-#include <string>
-#include <ctime>
-#include <cstdio>
-using namespace std;
+                                                                                      
 
 std::string RandStr(int n)
 {
